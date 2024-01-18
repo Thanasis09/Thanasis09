@@ -1,4 +1,4 @@
-Hello 👋! I love coding 👨‍💻, gaming 🎮, and savoring delicious slices of pizza 🍕!
+Hello 👋, I am Thanasis! I love coding 👨‍💻, gaming 🎮, and savoring delicious slices of pizza 🍕!
 
 My coding toolkit includes Batch, Powershell, Lua, and Python, though I also have experience with frontend, including JavaScript and TypeScript!
 I also have experience using Arduino and mpython (micro-python) for robotics!
