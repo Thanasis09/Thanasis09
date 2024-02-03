@@ -8,8 +8,8 @@ I know Greek, English and French.
 profile_info = {
     "Name": "Thanasis Lanaras",
     "Interests": ["Coding 👨‍💻", "Gaming 🎮", "Pizza 🍕"],
-    "Languages": ["Batch", "PowerShell", "Python", "Lua"],
-    "Frontend Experience": ["JavaScript", "TypeScript", "HTML/CSS", "Tailwind", "Electron"],
+    "Programming Languages": ["Batch", "PowerShell", "Python", "Lua", "Javascript/Typescript"],
+    "Frontend Experience": ["HTML/CSS", "TailwindCSS", "Electron", "Node.js"],
     "Robotics Skills": ["Arduino", "mpython"],
     "Languages": ["Greek", "English", "French"]
 }
