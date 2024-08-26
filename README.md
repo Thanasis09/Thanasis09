@@ -1,4 +1,4 @@
-# Hello 👋, I'm Thanasis!
++# Hello 👋, I'm Thanasis!
 
 ### 👨‍💻 Passionate Coder | 🎮 Avid Gamer | 🍕 Pizza Enthusiast
 I’m a developer with a deep love for coding, gaming, and enjoying the perfect slice of pizza. My technical toolkit includes a variety of languages and frameworks that I’ve used in various projects, from backend systems to UI/UX design.
@@ -31,6 +31,7 @@ I’m a developer with a deep love for coding, gaming, and enjoying the perfect 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Development Tools:
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
