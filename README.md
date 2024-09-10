@@ -1,4 +1,4 @@
-+# Hello 👋, I'm Thanasis!
+# Hello 👋, I'm Thanasis!
 
 ### 👨‍💻 Passionate Coder | 🎮 Avid Gamer | 🍕 Pizza Enthusiast
 I’m a developer with a deep love for coding, gaming, and enjoying the perfect slice of pizza. My technical toolkit includes a variety of languages and frameworks that I’ve used in various projects, from backend systems to UI/UX design.
