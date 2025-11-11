@@ -1,7 +1,6 @@
 # Hello 👋, I'm Thanasis!
 
-### 👨‍💻 Passionate Coder | 🎮 Avid Gamer | 🍕 Pizza Enthusiast
-I’m a developer with a deep love for coding, gaming, and enjoying the perfect slice of pizza. My technical toolkit includes a variety of languages and frameworks that I’ve used in various projects, from backend systems to UI/UX design.
+I’m a developer with a deep love for coding. Here are the different tools, frameworks and languages I have used:
 
 
 ### Databases & ORMs:
@@ -35,13 +34,7 @@ I’m a developer with a deep love for coding, gaming, and enjoying the perfect 
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Development Tools:
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-## 🌐 Languages:
+## Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,3 +53,4 @@ I’m a developer with a deep love for coding, gaming, and enjoying the perfect 
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thanasis09&size_weight=0.5&count_weight=0.5&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
   <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanasis09&size_weight=0.5&count_weight=0.5&layout=compact">
 </picture>
+
